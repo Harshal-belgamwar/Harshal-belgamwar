@@ -14,7 +14,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp" />
 </p>
 
 ### Frontend Development
