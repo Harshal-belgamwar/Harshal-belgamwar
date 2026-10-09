@@ -23,11 +23,39 @@
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css" />
 </p>
 
-### Backend Development
+### Backend Development & Architecture
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=spring,java,mysql,redis,kafka" />
 </p>
+
+**Frameworks & Security**
+
+* Spring Boot, Spring Security, Spring Cloud Gateway
+* REST APIs, JWT Authentication, Role-Based Access Control
+* Feign Client for inter-service communication
+
+**Microservices & Distributed Systems**
+
+* Microservices Architecture
+* Apache Kafka — Event-Driven Architecture, Producers, Consumers, Consumer Groups
+* Redis — Caching and Fast Data Access
+* Redisson — Distributed Locks and Concurrent Bid Handling
+* Resilience4j — Circuit Breaker Pattern
+* Server-Sent Events (SSE) for real-time updates
+
+**Databases & Data Consistency**
+
+* MySQL, SQL, JPA, Hibernate
+* Redis–MySQL consistency considerations
+* Transaction Management and ACID Properties
+* Concurrency Control and Race Condition Handling
+
+**Developer Tools & Infrastructure**
+
+* Docker, Git, GitHub, Postman, Linux
+* Maven, IntelliJ IDEA
+
 
 ### Tools & Platforms
 
