@@ -1,4 +1,4 @@
-# Hi, I'm Harshal Belgaonkar 👋
+# Hi, I'm Harshal Belgamwar 👋
 
 ### Java Full Stack Developer | Backend Development | Problem Solving
 
