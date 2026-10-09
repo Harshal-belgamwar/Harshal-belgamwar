@@ -26,7 +26,7 @@
 ### Backend Development & Architecture
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,java,mysql,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=spring boot,spring cloud,java,mysql,redis,kafka" />
 </p>
 
 
