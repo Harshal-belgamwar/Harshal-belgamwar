@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=java,mysql,redis,kafka" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices%20Architecture-2C3E50?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 
